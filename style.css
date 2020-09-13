@@ -1,0 +1,126 @@
+/* header */
+
+
+
+body {
+    background-image: "images/beer background.PNG";
+    background-color:gray;
+    font-family: 'courier new, Courier, monospace';
+    margin: 0px auto;
+    width: 960px;
+}
+
+header {
+    height: 1
+    00px;
+    color: black;
+    text-align: center;
+    }
+
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+
+}
+
+header li {
+    display: inline-block;
+    width: 100px;
+    background-color: purple;
+    padding: 5px;
+    text-align: center;
+    border-radius:10px;
+    margin; 5pm;
+    border: 1px solid black;
+    color: white;
+}
+
+
+/* main*/
+
+table {
+    width: 960px;
+}
+
+tr.row1 {
+    
+}
+tr.row2 {
+    background-color: purple;
+    Opacity: 0.5;
+}
+
+tr.row3 {
+    background-color: purple;
+    Opacity: 0.75;
+}
+
+tr.row4 {
+    background-color: #c24e00;
+    Opacity:  0.5;
+}
+
+tr.row5 {
+    background-color: #c24e00;
+    Opacity: 0.75;
+}
+
+tr.row6 {
+    background-color: rgb(1,68,33);
+    Opacity: 0.5;
+}
+tr.row7 {
+    background-color: rgb(1,68,33);
+    Opacity: 0.75
+}
+
+table {
+    background-color: goldenrod;
+    font-family: arila, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    }
+
+/* footer */
+
+footer li {
+    display: inline-block;
+    width: 20%;
+    padding: 5px;
+    text-align: center;
+    border-radius: 25px;
+    border: 1px solid black;
+    color: white;
+    background-color: purple;
+}
+footer p {
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
