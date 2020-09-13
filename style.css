@@ -3,8 +3,8 @@
 
 
 body {
-    background-image: "images/beer background.PNG";
-    background-color:gray;
+    background-image: url(/images/beer_bubbles.jpg);
+    background-color: goldenrod;
     font-family: 'courier new, Courier, monospace';
     margin: 0px auto;
     width: 960px;
@@ -15,6 +15,7 @@ header {
     00px;
     color: black;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
     }
 
 
@@ -47,35 +48,41 @@ table {
 }
 
 tr.row1 {
-    
+    font-size: larger;    
 }
 tr.row2 {
+    color: honeydew;
     background-color: purple;
-    Opacity: 0.5;
+    Opacity: 0.8;
 }
 
 tr.row3 {
     background-color: purple;
-    Opacity: 0.75;
+    color: honeydew;
+    
 }
 
 tr.row4 {
     background-color: #c24e00;
-    Opacity:  0.5;
+    Opacity:  0.8;
+    color: honeydew;
 }
 
 tr.row5 {
     background-color: #c24e00;
-    Opacity: 0.75;
+    color: honeydew;
+    
 }
 
 tr.row6 {
     background-color: rgb(1,68,33);
-    Opacity: 0.5;
+    Opacity: 0.8;
+    color: honeydew;
 }
 tr.row7 {
     background-color: rgb(1,68,33);
-    Opacity: 0.75
+    color: honeydew;
+    
 }
 
 table {
