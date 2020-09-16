@@ -9,7 +9,7 @@ function getGreeting() {
     if (hourNow > 18) {
         greeting = 'It\'s happy hour!';
     }   else if (hourNow > 12 ) {
-            greeting = 'Beer or Wine?';
+            greeting = 'It\'s beer 30!';
     }   else if (hourNow > 0) {
             greeting = 'No better time than the present!';
     }   else {
